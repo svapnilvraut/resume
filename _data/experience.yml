@@ -8,3 +8,10 @@
     - Working as a key indivisual contributer in development of banking (Advisor Connect) application.
     - Developed front-end of complex banking applications from scratch using ReactJs and Redux libraries.
     
+- layout: left
+  company: Tieto
+  link: https://www.tieto.com/
+  job_title: Configuration Engineer
+  dates: (June 2013 - February 2014)
+  description: | # this will include new lines to allow paragraphs
+    - Worked as a configuration engineer for MSDPAS (Microsoft platform as a service).
