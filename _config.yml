@@ -16,7 +16,7 @@ github_username:  svapnilvraut
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jekyll
-linkedin_username: jekyll
+linkedin_username: swapnil-raut-782280a5
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: jekyll
@@ -26,13 +26,15 @@ linkedin_username: jekyll
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  <mark>Challenges is what I seek, Passion is what I put and Success is what I deliver</mark>
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+    - FullStack developer with more than 8 years' of experience.
+    - Extensive hands on experience in Front-End development in ReactJs, Redux, JavaScript, HTML5, CSS3, Bootstrap and related technologies.
+    - Back-End development experience in Java, Spring-Boot, Spring-MVC, Spring-Data, Hibernate.
+    - Scripting knowledge in Shell scripting, PERL scripting and PERL automation.
+    - DevOps experience in managing configuration management, build and release management and CI-CD tools like Jenkins administration and configuration.
+    - Proven ability in transforming requirements to designs and solutions for complex enterprise applications.
+    - Excellent understanding of requirements and ability to transform them into UI / UX designs and develop the solutions.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
