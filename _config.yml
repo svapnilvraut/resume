@@ -11,7 +11,7 @@ phone: (+91) 9820 511 603
 
 # Social links
 # twitter_username: jekyllrb
-github_username:  svapnilvraut
+github_username:  svapnilvraut/Courses-App
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -23,7 +23,7 @@ linkedin_username: swapnil-raut-782280a5
 # googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me (Use this to override about section title)
+about_title: About Me (Use this to override about section title)
 about_profile_image: ./profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 
