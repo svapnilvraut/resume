@@ -26,7 +26,7 @@ linkedin_username: swapnil-raut-782280a5
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  <mark>Challenges is what I seek, Passion is what I put and Success is what I deliver</mark>
+  Challenges is what I seek, Passion is what I put and Success is what I deliver
 
     - FullStack developer with more than 8 years' of experience.
     - Extensive hands on experience in Front-End development in ReactJs, Redux, JavaScript, HTML5, CSS3, Bootstrap and related technologies.
