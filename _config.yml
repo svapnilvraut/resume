@@ -11,7 +11,7 @@ phone: (+91) 9820 511 603
 
 # Social links
 # twitter_username: jekyllrb
-github_username:  svapnilvraut/Courses-App
+github_username:  svapnilvraut
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
@@ -52,7 +52,7 @@ more_content: | # this will include new lines to allow paragraphs
   Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
