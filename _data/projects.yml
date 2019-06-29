@@ -1,9 +1,21 @@
 # Project template
-# - layout: top-middle
-#  name: Project name
-#  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-#  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
-#  quote: >
-#    Short overview of the project (optional)
-#  description: | # this will include new lines to allow paragraphs
-#    Description about the work on/with the project
+- layout: top-middle
+  name: Courses App
+  github: github.com/svapnilvraut/Courses-App
+  quote: >
+    This is a very basic course management app to Add, Update and Delete the course
+  description: | # this will include new lines to allow paragraphs
+    As a self learning thing, tried creating a end-to-end application. This is application makes use of React, Bootstrap, React routing and React Table.
+    This application is written completely using functional components in Rect using <mark>React Hooks</mark>.
+    
+    The application is created using <mark>create-react-app</mark>
+
+- layout: top-middle
+  name: courses-app-service
+  github: github.com/svapnilvraut/courses-app-service
+  quote: >
+    This is the service layer for the course management app
+  description: |
+    To interact between the database and the UI, the service layer is written. This is a RESTFull service written using spring-boot
+    
+    The database used here is a NoSql database named <mark>mongoDb</mark> and to integrate the service with the database made use of <mark>MongodbRepository</mark>.   
