@@ -1,5 +1,5 @@
 # Project template
-- layout: left
+- layout: top-middle
   name: Courses App
   github: svapnilvraut/Courses-App
   quote: >
@@ -10,7 +10,7 @@
     
     The application is created using <mark>create-react-app</mark>
 
-- layout: left
+- layout: top-middle
   name: courses-app-service
   github: svapnilvraut/courses-app-service
   quote: >
