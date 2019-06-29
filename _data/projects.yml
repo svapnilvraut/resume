@@ -1,6 +1,7 @@
 # Project template
 - layout: top-middle
   name: Courses App
+  link: https://github.com/svapnilvraut/Courses-App
   github: svapnilvraut/Courses-App
   quote: >
     This is a very basic course management app to Add, Update and Delete the course
@@ -12,6 +13,7 @@
 
 - layout: top-middle
   name: courses-app-service
+  link: https://github.com/svapnilvraut/courses-app-service
   github: svapnilvraut/courses-app-service
   quote: >
     This is the service layer for the course management app
