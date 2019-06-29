@@ -1,7 +1,7 @@
 # Project template
-- layout: top-middle
+- layout: left
   name: Courses App
-  github: github.com/svapnilvraut/Courses-App
+  github: svapnilvraut/Courses-App
   quote: >
     This is a very basic course management app to Add, Update and Delete the course
   description: | # this will include new lines to allow paragraphs
@@ -10,9 +10,9 @@
     
     The application is created using <mark>create-react-app</mark>
 
-- layout: top-middle
+- layout: left
   name: courses-app-service
-  github: github.com/svapnilvraut/courses-app-service
+  github: svapnilvraut/courses-app-service
   quote: >
     This is the service layer for the course management app
   description: |
