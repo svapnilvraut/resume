@@ -3,16 +3,19 @@
   name: A.C.Patil College of Engineering (Mumbai University)
   dates: Date Range (2006 - 2010)
   qualification: BE (Electronics & Telecommunication)
-  description: | quote > Bagged 60%
+  description:| 
+    quote > Bagged 60%
 
 - layout: left
   name: Kendriya Vidyalaya
   dates: Date Range (2005 - 2006)
   qualification: AISSCE (All India Senior Secondary School Examination)
-  description: | quote > Bagged 79.20%
+  description:| 
+    quote > Bagged 79.20%
   
  - layout: left
   name: Kendriya Vidyalaya
   dates: Date Range (2003 - 2004)
   qualification: AISCE (All India Secondary School Examination)
-  description: | quote > Bagged 82.60%
+  description:| 
+    quote > Bagged 82.60%
