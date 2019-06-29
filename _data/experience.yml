@@ -1,5 +1,5 @@
 # Experience template
-- layout: top-middle
+- layout: left
   company: J.P.Morgan Chase & Co.
   link: https://www.jpmorganchase.com/
   job_title: Associate
@@ -11,7 +11,7 @@
     - Owning the complete SDLC lifecyle of the application end-to-end
     - Participating in daily scrums and following Agile methologies
     
-- layout: top-middle
+- layout: left
   company: Tieto
   link: https://www.tieto.com/
   job_title: Configuration Engineer
@@ -21,7 +21,7 @@
     - Automated the anttended TFS (Team Foundstion server) installation using PERL scripting.
     - Defining and implenting the build and release processes for internal clients of MSDPAS.
     
-- layout: top-middle
+- layout: left
   company: Mphasis
   link: https://www.mphasis.com/
   job_title: Build Engineer
