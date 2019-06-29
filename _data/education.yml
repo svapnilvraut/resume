@@ -1,15 +1,9 @@
 # Education Template
 - layout: left
-  name: A.C.Patil College of Engineering (Mumbai University)
-  dates: Date Range (2006 - 2010)
-  qualification: BE (Electronics & Telecommunication)
-
-- layout: left
-  name: Kendriya Vidyalaya
-  dates: Date Range (2005 - 2006)
-  qualification: AISSCE (All India Senior Secondary School Examination)
-  
- - layout: left
-  name: Kendriya Vidyalaya
-  dates: Date Range (2003 - 2004)
-  qualification: AISCE (All India Secondary School Examination)
+  name: Institution name
+  dates: Date Range (eg. 2016 - 2019)
+  qualification: Qualifications (eg. BA Performing Arts)
+  quote: >
+    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description of qualification
