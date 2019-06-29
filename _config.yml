@@ -28,10 +28,10 @@ about_profile_image: ./profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 
     - FullStack developer with more than 8 years' of experience.
-    - Extensive hands on experience in Front-End development in ReactJs, Redux, JavaScript, HTML5, CSS3, Bootstrap and related technologies.
-    - Back-End development experience in Java, Spring-Boot, Spring-MVC, Spring-Data, Hibernate.
-    - Scripting knowledge in Shell scripting, PERL scripting and PERL automation.
-    - DevOps experience in managing configuration management, build and release management and CI-CD tools like Jenkins administration and configuration.
+    - Extensive hands on experience in Front-End development in <mark>ReactJs</mark>, <mark>Redux</mark>, <mark>JavaScript</mark>, HTML5, CSS3, Bootstrap and related technologies.
+    - Back-End development experience in Java, <mark>Spring-Boot</mark>, <mark>Spring-MVC</mark>, Spring-Data, Hibernate.
+    - Scripting knowledge in <mark>Shell</mark> scripting, <mark>PERL</mark> scripting and PERL automation.
+    - DevOps experience in managing configuration management, build and release management and CI-CD tools like <mark>Jenkins</mark> administration and configuration.
     - Proven ability in transforming requirements to designs and solutions for complex enterprise applications.
     - Excellent understanding of requirements and ability to transform them into UI / UX designs and develop the solutions.
 
@@ -46,13 +46,10 @@ about_content: | # this will include new lines to allow paragraphs
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+# more_content: | # this will include new lines to allow paragraphs
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
