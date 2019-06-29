@@ -5,8 +5,11 @@
   job_title: Associate
   dates: (February 2014 - present)
   description: | # this will include new lines to allow paragraphs
-    - Working as a key indivisual contributer in development of banking (Advisor Connect) application.
+    - Working as a key indivisual contributer in development of banking (Advisor Connect) applications.
     - Developed front-end of complex banking applications from scratch using ReactJs and Redux libraries.
+    - Integrating and creating RESTFull APIs for new functionalities using Spring Boot
+    - Owning the complete SDLC lifecyle of the application end-to-end
+    - Participating in daily scrums and following Agile methologies
     
 - layout: left
   company: Tieto
@@ -15,3 +18,17 @@
   dates: (June 2013 - February 2014)
   description: | # this will include new lines to allow paragraphs
     - Worked as a configuration engineer for MSDPAS (Microsoft platform as a service).
+    - Automated the anttended TFS (Team Foundstion server) installation using PERL scripting.
+    - Defining and implenting the build and release processes for internal clients of MSDPAS.
+    
+- layout: left
+  company: Mphasis
+  link: https://www.mphasis.com/
+  job_title: Build Engineer
+  dates: (March 2011 - June 2013)
+  description: | # this will include new lines to allow paragraphs
+    - Worked for one of the Europe based clients as build engineer
+    - Was responsible for build, release and configuration management for all the applications for the client
+    - Took additional responsibility for one of the Partner Locator project as a developer
+    - Key skills included, HTML, CSS, JavaScript, ASP.net, Google Maps V3
+    
