@@ -6,15 +6,20 @@
   dates: (February 2014 - present)
   description: | # this will include new lines to allow paragraphs
     - Working as a key indivisual contributer in development of banking (Advisor Connect) applications.
-    - Developed front-end of complex banking applications from scratch using ReactJs and Redux libraries.
-    - Integrating and creating RESTFull APIs for new functionalities using Spring Boot
-    - Owning the complete SDLC lifecyle of the application end-to-end
-    - Participating in daily scrums and following Agile methologies
-    - Participating in code-a-thon's
-    - Participating in code reviews
+    - Developed front-end of complex banking applications from scratch using <mark>ReactJs</mark> and <mark>Redux</mark> libraries.
+    - Integrating and creating <mark>RESTFul APIs</mark> for new functionalities using Spring Boot
+    - Owning the complete <mark>SDLC lifecyle</mark> of the application end-to-end
+    - Participating in daily scrums, retro and following <mark>Agile methologies</mark>
+    - Participating in defining the stories and story pointing
+    - Participating in <mark>code-a-thon</mark>'s
+    - Participating in <mark>code reviews</mark>
     - Defining best practices and collaborating with various teams to develop a feature
     - Learning new technoligies and UI frameworks like <mark>Angular</mark> and <mark>Ionic</mark>
     - Writting test cases for UI code using <mark>Jest</mark> and <mark>Enzyme</mark>
+    - Created <mark>HipChat bots</mark> to execute daily tasks like running a Jenkins Job
+    - Created <mark>Build and Release Pipeline</mark> for automating the build and release of dependent modules via <mark>Jenkins</mark>
+    - Created maven plugins to deploy the artifcats released to Nexus repo via Build and Release pipeline
+    - Participating in <mark>PROD deployments</mark> and <mark>PROD technical checkouts</mark>
     
 - layout: left
   company: Tieto
