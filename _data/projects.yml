@@ -46,3 +46,13 @@
     This project is created as a basic implementation of spring-webflux.
     This project was created as a starting point to demonstrate the implementation of reactors <mark>mono</mark> and <mark>flux</mark> concepts. Using <mark>mongodb-reactive</mark> library at the back end to store the data and implement a <mark>non-blocking</mark> api calls.
     
+- layout: top-middle
+  name: Angular Courses App
+  link: https://github.com/svapnilvraut/courses-app-angular
+  github: svapnilvraut/courses-app-angular
+  quote: >
+    This is an courses app project in Angular.
+  description: |
+    Angular is a very powerful framework and very popular in developing the web applications.
+    This project demonstrates the various aspects in angular. This project was created using the @angular/cli.
+    This makes use of the RxJs obervable pattern to do the api calls using httpclient.
