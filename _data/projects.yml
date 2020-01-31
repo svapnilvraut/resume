@@ -36,7 +36,7 @@
     This project is created as a quick startup with React and Redux. This is a sample project that demonstrates the integration of Redux with React.
     Mainly the <mark>createStore</mark>, <mark>actionCreators</mark>, <mark>reducers</mark> & <mark>applyMiddleware</mark>
 
--layout: top-middle
+- layout: top-middle
   name: Reactive World
   link: https://github.com/svapnilvraut/reactive-world
   github: svapnilvraut/reactive-world
