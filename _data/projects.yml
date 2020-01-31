@@ -35,3 +35,14 @@
   description: |
     This project is created as a quick startup with React and Redux. This is a sample project that demonstrates the integration of Redux with React.
     Mainly the <mark>createStore</mark>, <mark>actionCreators</mark>, <mark>reducers</mark> & <mark>applyMiddleware</mark>
+
+-layout: top-middle
+  name: Reactive World
+  link: https://github.com/svapnilvraut/reactive-world
+  github: svapnilvraut/reactive-world
+  quote: >
+    This is created to practice and demonstrate the basic use of spring-webflux
+  description: |
+    This project is created as a basic implementation of spring-webflux.
+    This project was created as a starting point to demonstrate the implementation of reactors <mark>mono</mark> and <mark>flux</mark> concepts. Using <mark>mongodb-reactive</mark> library at the back end to store the data and implement a <mark>non-blocking</mark> api calls.
+    
