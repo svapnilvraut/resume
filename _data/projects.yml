@@ -1,5 +1,17 @@
 # Project template
 - layout: top-middle
+  name: Stock viewer App
+  link: https://github.com/svapnilvraut/stock-viewer-app
+  github: svapnilvraut/stock-viewer-app
+  quote: >
+    This is a demonstration of <mark>non-blocking microservice</mark> arcitecture
+  description: | # this will include new lines to allow paragraphs
+    This application is developed to demonstrate the non-blocking microservice architecture. 
+    There is a <mark>API gateway</mark> microservice
+    Which then redirects to <mark>Service-registry</mark> using Eureka-Server.
+    Which then communicates with <mark>YahooFinanceAPI</mark> and <mark>stock-db-service</mark> 
+    
+- layout: top-middle
   name: Courses App UI
   link: https://github.com/svapnilvraut/Courses-App
   github: svapnilvraut/Courses-App
