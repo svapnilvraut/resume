@@ -27,7 +27,7 @@ linkedin_username: swapnil-raut-782280a5
 about_profile_image: ./profile.jpg
 about_content: | # this will include new lines to allow paragraphs
 
-    - <mark>FullStack developer</mark> with more than 8 years' of experience.
+    - <mark>FullStack developer</mark> with more than 9 years' of experience.
     - Extensive hands on experience in Front-End development in <mark>ReactJs</mark>, <mark>Redux</mark>, <mark>JavaScript</mark>, <mark>Angular</mark>, HTML5, CSS3, Bootstrap and related technologies.
     - Back-End development experience in Java, <mark>Spring-Boot</mark>, <mark>Spring-MVC</mark>, Spring-Data, Hibernate.
     - Scripting knowledge in <mark>Shell</mark> scripting, <mark>PERL</mark> scripting and PERL automation.
