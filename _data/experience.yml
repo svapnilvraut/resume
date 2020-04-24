@@ -29,8 +29,8 @@
   dates: (June 2013 - February 2014)
   description: | # this will include new lines to allow paragraphs
     - Worked as a configuration engineer for MSDPAS (Microsoft platform as a service).
-    - Automated the anttended TFS (Team Foundstion server) installation using PERL scripting.
-    - Defining and implenting the build and release processes for internal clients of MSDPAS.
+    - Automated the unattended TFS (Team Foundstion server) installation using PERL scripting.
+    - Defining and implementing the build and release processes for internal clients of MSDPAS.
     
 - layout: left
   company: Mphasis
