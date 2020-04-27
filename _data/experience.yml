@@ -5,21 +5,21 @@
   job_title: Associate
   dates: (February 2014 - present)
   description: | # this will include new lines to allow paragraphs
-    - Working as a key indivisual contributer in development of banking (Advisor Connect) applications.
+    - Working as a key individual contributor in development of banking (Advisor Connect) applications.
     - Developed front-end of complex banking applications from scratch using <mark>ReactJs</mark> and <mark>Redux</mark> libraries.
     - Experience in Node.js, ReactJs, Redux, Angular, HTML, CSS
     - Integrating and creating <mark>RESTFul APIs</mark> for new functionalities using Spring Boot
-    - Owning the complete <mark>SDLC lifecyle</mark> of the application end-to-end
-    - Participating in daily scrums, retro and following <mark>Agile methologies</mark>
+    - Owning the complete <mark>SDLC lifecycle</mark> of the application end-to-end
+    - Participating in daily scrums, retro and following <mark>Agile mythologies</mark>
     - Participating in defining the stories and story pointing
     - Participating in <mark>code-a-thon</mark>'s
     - Participating in <mark>code reviews</mark>
     - Defining best practices and collaborating with various teams to develop a feature
-    - Learning new technoligies and UI frameworks like <mark>Angular</mark> and <mark>Ionic</mark>
-    - Writting test cases for UI code using <mark>Jest</mark> and <mark>Enzyme</mark>
+    - Learning new technologies and UI frameworks like <mark>Angular</mark> and <mark>Ionic</mark>
+    - Writing test cases for UI code using <mark>Jest</mark> and <mark>Enzyme</mark>
     - Created <mark>HipChat bots</mark> to execute daily tasks like running a Jenkins Job
     - Created <mark>Build and Release Pipeline</mark> for automating the build and release of dependent modules via <mark>Jenkins</mark>
-    - Created maven plugins to deploy the artifcats released to Nexus repo via Build and Release pipeline
+    - Created maven plugins to deploy the artefacts released to Nexus repo via Build and Release pipeline
     - Participating in <mark>PROD deployments</mark> and <mark>PROD technical checkouts</mark>
     
 - layout: left
@@ -29,7 +29,7 @@
   dates: (June 2013 - February 2014)
   description: | # this will include new lines to allow paragraphs
     - Worked as a configuration engineer for MSDPAS (Microsoft platform as a service).
-    - Automated the unattended TFS (Team Foundstion server) installation using PERL scripting.
+    - Automated the unattended TFS (Team Foundation server) installation using PERL scripting.
     - Defining and implementing the build and release processes for internal clients of MSDPAS.
     
 - layout: left
