@@ -1,9 +1,22 @@
 # Experience template
 - layout: left
+  company: Barclays
+  link: https://home.barclays/
+  job_title: Developer
+  dates: (September 2020 - present)
+  description: | # this will include new lines to allow paragraphs
+    - Working as a key individual contributor in development of banking IB applications.
+    - Developing a tool end-to-end all independently to ease the task of Sales Person
+    - Developed front-end of complex banking applications from scratch using <mark>Angular</mark> and <mark>Spring</mark> libraries.
+    - Integrating and creating <mark>RESTFul APIs</mark> for new functionalities using Spring Boot
+    - Owning the complete <mark>SDLC lifecycle</mark> of the application end-to-end
+    - Participating in daily scrums, retro and following <mark>Agile mythologies</mark>
+    - Participating in defining the stories and story pointing
+- layout: left
   company: J.P.Morgan Chase & Co.
   link: https://www.jpmorganchase.com/
   job_title: Associate
-  dates: (February 2014 - present)
+  dates: (February 2014 - September 2020)
   description: | # this will include new lines to allow paragraphs
     - Working as a key individual contributor in development of banking (Advisor Connect) applications.
     - Developed front-end of complex banking applications from scratch using <mark>ReactJs</mark> and <mark>Redux</mark> libraries.
